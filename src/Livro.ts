@@ -8,6 +8,6 @@ export class Livro {
     this.codigo = codigo;
     this.titulo = titulo;
     this.autor = autor;
-    this.disponivel = true; // começa disponível
+    this.disponivel = true; 
   }
 }
